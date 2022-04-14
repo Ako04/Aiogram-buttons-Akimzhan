@@ -7,7 +7,9 @@ menu = ReplyKeyboardMarkup(
         ],
         [
             KeyboardButton(text="4E"),
-            KeyboardButton(text="3I")
+        ],
+        [
+            KeyboardButton(text="3I"),
         ],
     ],
     resize_keyboard=True
